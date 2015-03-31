@@ -58,6 +58,9 @@
     <feature name="Insomnia">
         <param name="wp-package" value="Insomnia" />
     </feature>
+    <feature name="BarcodeScanner">
+        <param name="wp-package" value="BarcodeScanner" />
+    </feature>
     <name>PhoneGap</name>
     <description>
         The PhoneGap Developer app is a testing utility for web developers
